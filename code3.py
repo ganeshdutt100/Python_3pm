@@ -25,3 +25,4 @@ elif age > 15 and age <= 60:
     print("Ticket price is 200")
 else:
     print("Ticket price is 150")    
+
