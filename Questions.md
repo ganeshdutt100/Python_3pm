@@ -44,3 +44,24 @@ Ek simple login system banaiye jaha pehle Username check ho, aur agar username s
 9-Digit Sum: Take a number like 456 and use a while loop to find the sum of its digits ($4 + 5 + 6 = 15$).
 
 10-Even Numbers Only: Write a while loop that prints all even numbers between 1 and 20. -->
+
+<!-- Mixed Logic Questions (For & While with If-Else)
+1- FizzBuzz Classic: 1 se 50 tak numbers print karein. Agar number 3 se divide ho toh "Fizz" likhein, agar 5 se ho toh "Buzz", aur agar dono (15) se ho toh "FizzBuzz" print karein.
+
+2- Even-Odd Separator: Ek list [10, 21, 4, 45, 66, 93] mein se sirf Even numbers ko ek alag list mein aur Odd numbers ko dusri list mein daalein.
+
+3- Prime Number Checker: User se ek number input lein aur for loop + if-else ka use karke batayein ki wo Prime (abhajya) hai ya nahi.
+
+4-Login System (Limited Attempts): Ek while loop banayein jo user se password maange. Agar 3 baar galat password dala, toh "Account Locked" print karein, warna "Welcome".
+
+5-Positive Sum Only: Ek while loop chalayein jo user se numbers maangta rahe. Sirf Positive numbers ko add karein aur jaise hi user 0 enter kare, loop stop karke total sum dikhayein.
+
+6-Find the Largest: Ek list [23, 45, 12, 56, 89, 34] mein loop chalayein aur if condition se sabse Bada (Maximum) number dhoondhein.
+
+7-Grade Calculator: Ek list mein 5 subjects ke marks hain. Loop ka use karke har subject ka grade batayein (e.g., >90 is 'A', >80 is 'B', etc.).
+
+8-Skip the Multiples: 1 se 30 tak ginti print karein, lekin if aur continue ka use karke un numbers ko skip kar dein jo 4 ke multiples hain (4, 8, 12...).
+
+9-Vowel or Consonant: Ek sentence (string) mein loop chalayein aur har character ke liye check karein ki wo Vowel hai ya Consonant.
+
+10-Search in List: Ek list mein kuch names hain. User se ek naam puchiye aur loop chala kar check kijiye ki wo naam list mein hai ya nahi. Agar mil jaye toh "Found" bol kar loop break kar dein. -->
