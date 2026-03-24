@@ -2,7 +2,7 @@
 #     for j in range(2):
 #       print(f"i  = {i} , j  = { j}")
 
-row  = 5
+# row  = 5
 
 # for i in range(1, row+1):
 #     print("*" * i)
@@ -17,10 +17,10 @@ row  = 5
     #      *
     #     ***
     #    ***** 
-for i in range(1, row+1):
-    for j in range(1, i+1):
-        print(j,  end=" ")
-    print()    
+# for i in range(1, row+1):
+#     for j in range(1, i+1):
+#         print(j,  end=" ")
+#     print()    
        
 # 1
 # 12
