@@ -24,5 +24,8 @@
 # result  = a  + " "+  b
 # print(result)
 
-name  =  "Ganesh ji "
-print((name+ "\n") *5)
+# name  =  "Ganesh ji "
+# print((name+ "\n") *5)
+
+# a  = "hello"
+# print(a[0], a[-1])

@@ -65,3 +65,42 @@ Ek simple login system banaiye jaha pehle Username check ho, aur agar username s
 9-Vowel or Consonant: Ek sentence (string) mein loop chalayein aur har character ke liye check karein ki wo Vowel hai ya Consonant.
 
 10-Search in List: Ek list mein kuch names hain. User se ek naam puchiye aur loop chala kar check kijiye ki wo naam list mein hai ya nahi. Agar mil jaye toh "Found" bol kar loop break kar dein. -->
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+<!-- String -->
+
+1-Reverse a String: Take a string as input and print it backwards (e.g., "Python" becomes "nohtyP").
+
+2-Vowel Counter: Write a program to count how many vowels (a, e, i, o, u) are in a given sentence.
+
+3-Palindrome Check: Check if a string is a palindrome (reads the same forward and backward, like "madam").
+
+4-Remove Whitespace: Take a string with extra spaces at the beginning and end, and remove them using string methods.
+
+5-Word Counter: Count how many words are in a sentence by splitting the string.
+
+6-Capitalize Words: Take a sentence like "hello world" and convert it to "Hello World" (First letter of each word capital).
+
+7-Find and Replace: In the string "I like apples", replace "apples" with "bananas" using code.
+
+8-Character Frequency: Count how many times the letter 'a' appears in a given string.
+
+9-Anagram Check: Take two strings and check if they are anagrams (contain the same characters in different order, like "listen" and "silent").
+
+10-Password Validator: Check if a string (password) has at least 8 characters, one uppercase letter, and one number.
+
+<!-- nested loop  -->
+
+1- Square Pattern: Print a 5 x 5 square of stars (*) using nested loops.
+2-Right-Angled Triangle: Print a pattern where the first row has 1 star, the second has 2, and so on, up to 5 rows.
+
+3-Multiplication Table Grid: Create a nested loop that prints multiplication tables from 1 to 10 in a grid format.
+
+4-Number Pyramid: Print a pattern where row 1 is 1, row 2 is 2 2, row 3 is 3 3 3, etc.
+5-Coordinate Pairs: Write a nested loop to print all possible pairs $(x, y)$ where $x$ is from 1 to 3 and $y$ is from 1 to 3
+6-Prime Numbers in Range: Use a nested loop to find and print all prime numbers between 1 and 50.
+7-Inverted Triangle: Print a pattern of stars starting from 5 stars in the first row, decreasing to 1 star in the last row.
+8-Unique Combinations: Given a list [1, 2, 3], use nested loops to print all unique pairs (e.g., $1,2$ and $2,1$ are considered different).
+9-Sum of Matrix: If you have two 2 x 2 lists (matrices), use nested loops to add their corresponding elements.
+10-Diamond Pattern (Advanced): Try to print a diamond shape using stars. (Hint: You will need to manage spaces using loops too).
