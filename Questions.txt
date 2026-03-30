@@ -104,3 +104,56 @@ Ek simple login system banaiye jaha pehle Username check ho, aur agar username s
 8-Unique Combinations: Given a list [1, 2, 3], use nested loops to print all unique pairs (e.g., $1,2$ and $2,1$ are considered different).
 9-Sum of Matrix: If you have two 2 x 2 lists (matrices), use nested loops to add their corresponding elements.
 10-Diamond Pattern (Advanced): Try to print a diamond shape using stars. (Hint: You will need to manage spaces using loops too).
+
+
+
+-----while loop 
+Q1.
+
+Print numbers from 1 to 10 using a while loop.
+
+Q2.
+
+Print numbers from 10 to 1 (reverse order).
+
+Q3.
+
+Print all even numbers from 1 to 20 using while loop.
+
+Q4.
+
+Find the sum of numbers from 1 to n using while loop.
+👉 (Take n from user)
+
+Q5.
+
+Print multiplication table of a given number using while loop.
+
+Q6.
+
+Count the number of digits in a given number.
+👉 Example: 1234 → 4
+
+Q7.
+
+Reverse a number using while loop.
+👉 Example: 123 → 321
+
+Q8.
+
+Check whether a number is palindrome or not using while loop.
+👉 Example: 121 → Palindrome
+
+Q9.
+
+Find factorial of a number using while loop.
+
+Q10.
+
+Print this pattern using while loop:
+
+*
+**
+***
+****
+*****
